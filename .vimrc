@@ -68,4 +68,4 @@ autocmd FileType yaml   setlocal expandtab tabstop=2 list
 "inoremap ^? <bs>
 
 "マウス操作でビジュアルモードを起動する
-set mouse=a
+"set mouse=a

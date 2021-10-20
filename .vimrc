@@ -66,6 +66,3 @@ autocmd FileType yaml   setlocal expandtab tabstop=2 list
 
 "Deleteキーを有効にする。^?はCtrl + VのあとDelete
 "inoremap ^? <bs>
-
-"マウス操作でビジュアルモードを起動する
-"set mouse=a

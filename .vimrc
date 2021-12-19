@@ -53,7 +53,7 @@ autocmd FileType make   setlocal noexpandtab list
 autocmd FileType python setlocal expandtab list
 autocmd FileType yaml   setlocal expandtab tabstop=2 list
 
-"テーマの設定   
+"テーマの設定
 "colorscheme koehler
 "colorscheme murphy
 "
